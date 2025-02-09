@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "215256200314",
+    "project_id": "instagram-599a7",
+    "storage_bucket": "instagram-599a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:51023fa64f6529373cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:c341266854dafd8f3cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instagram_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:d5ad1c5ac0cedc0f3cb7c3",
+        "android_client_info": {
+          "package_name": "com.salehmangrio.instacloneproject.instagram_clone_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
